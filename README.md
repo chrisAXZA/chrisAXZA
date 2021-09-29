@@ -1,6 +1,16 @@
-### Hi there 👋
+## Welcome to my GitHub Landing Page
+---
+
+<img src="LandingPage3.jpg"/>
+
+
+---
+### GitHub Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisAXZA&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&show_icons=true&custom_title=My+GitHub+Stats" />
 
 <!--
+
+### Hi there 👋
 **chrisAXZA/chrisAXZA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
