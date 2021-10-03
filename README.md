@@ -1,4 +1,4 @@
-## Welcome to my GitHub Landing Page
+## Welcome to the Lab
 ---
 
 <img src="LandingPage3.jpg"/>
