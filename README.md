@@ -6,7 +6,7 @@
 
 ---
 ### GitHub Stats
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisAXZA&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&show_icons=true&custom_title=My+GitHub+Stats&hide_border=true"/></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisAXZA&langs_count=10&layout=compact&hide_border=true"/></a> |
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisAXZA&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&show_icons=true&custom_title=My+GitHub+Stats&hide_border=true"/></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisAXZA&langs_count=8&layout=compact&hide_border=true"/></a> |
 | ------------- | ------------- |
 
 <!--
