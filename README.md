@@ -6,10 +6,12 @@
 
 ---
 ### GitHub Stats
-<div style="display: grid;place-items: center;">
-<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=chrisAXZA&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&show_icons=true&custom_title=My+GitHub+Stats" />
-<img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisAXZA&langs_count=10&layout=compact"/>
-<div/>
+<img src="https://github-readme-stats.vercel.app/api?username=chrisAXZA&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&show_icons=true&custom_title=My+GitHub+Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisAXZA&langs_count=10&layout=compact"/>
+
+
+<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisAXZA&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&show_icons=true&custom_title=My+GitHub+Stats"/></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisAXZA&langs_count=10&layout=compact"/></a>
+
 
 <!--
 
