@@ -6,7 +6,10 @@
 
 ---
 ### GitHub Stats
+<div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisAXZA&langs_count=10&layout=compact"/> <img align="left" src="https://github-readme-stats.vercel.app/api?username=chrisAXZA&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&show_icons=true&custom_title=My+GitHub+Stats" />
+<div/>
+
 <!--
 
 ### Hi there 👋
