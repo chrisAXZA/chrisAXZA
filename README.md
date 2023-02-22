@@ -3,6 +3,14 @@
 
 <img src="LandingPage3.jpg"/>
 
+## Food for Thought or Thought for Food
+*Men are apt to mistake the strength of their feeling for the strength of their argument. The heated mind resents the chill touch and relentless scrutiny of logic.*
+
+*男人很容易把他们的感情的力量误认为他们的论点的力量。 炽热的头脑憎恨冷酷的触摸和对逻辑的无情审查.*
+
+If you are cold, tea will warm you; if you are too heated, it will cool you; If you are depressed, it will cheer you; If you are excited, it will calm you.
+
+如果你冷，茶会温暖你;如果你太热，它会让你凉爽;如果你沮丧，它会让你欢呼;如果你兴奋，它会让你平静。
 
 ---
 ### GitHub Stats
